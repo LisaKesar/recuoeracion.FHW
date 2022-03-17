@@ -1,0 +1,76 @@
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es" xml:base="file:///C:/Users/Win10/Desktop/%D0%A3%D0%9D%D0%98%D0%9A/LMAR/%D0%BF%D0%B5%D1%80%D0%B5%D1%81%D0%B4%D0%B0%D1%87%D0%B0/index.html">
+<id>file:///C:/Users/Win10/Desktop/%D0%A3%D0%9D%D0%98%D0%9A/LMAR/%D0%BF%D0%B5%D1%80%D0%B5%D1%81%D0%B4%D0%B0%D1%87%D0%B0/index.html</id>
+<title>INSTALACIÓN DE SOFTWARE DE PROPÓSITO GENERAL y más atom</title>
+<updated>2021-12-21T19:06:00+01:00</updated>
+<link rel="alternate" href="file:///C:/Users/Win10/Desktop/%D0%A3%D0%9D%D0%98%D0%9A/LMAR/%D0%BF%D0%B5%D1%80%D0%B5%D1%81%D0%B4%D0%B0%D1%87%D0%B0/index.html"/>
+<author>
+    <name>Kamarenko Lisa</name>
+    <email>kramaye_aliesma20@iesmedinaazahara.es</email>
+</author>
+<category term="Software"/>
+    <contributor>
+        <name>Lisa Kramarenko</name>
+        <email>kramaye_aliesma20@iesmedinaazahara.es</email>
+    </contributor>
+    <logo>INSTALACIÓN DE SOFTWARE DE PROPÓSITO GENERAL.jpg</logo>
+
+    <entry>
+        <id>file:///C:/Users/Win10/Desktop/%D0%A3%D0%9D%D0%98%D0%9A/LMAR/%D0%BF%D0%B5%D1%80%D0%B5%D1%81%D0%B4%D0%B0%D1%87%D0%B0/index.html#Inicio</id>
+        <title>Información sobre la infomacon el la pagina</title>
+        <update>2021-02-12T18:30:00+01:00</update>
+        <author>
+            <name>Kramarenko Lisa</name>
+            <email>kramaye_aliesma20@iesmedinaazahara.es</email>
+        </author>
+        <summary>Inicio</summary>
+        <link rel="alternate" href="file:///C:/Users/Win10/Desktop/%D0%A3%D0%9D%D0%98%D0%9A/LMAR/%D0%BF%D0%B5%D1%80%D0%B5%D1%81%D0%B4%D0%B0%D1%87%D0%B0/index.html#Inicio"/>
+    </entry>
+
+    <entry>
+        <id>file:///C:/Users/Win10/Desktop/%D0%A3%D0%9D%D0%98%D0%9A/LMAR/%D0%BF%D0%B5%D1%80%D0%B5%D1%81%D0%B4%D0%B0%D1%87%D0%B0/index.html#Ofimatica</id>
+        <title>Información sobre Ofimatica</title>
+        <update>2021-02-12T18:30:00+01:00</update>
+        <author>
+            <name>Kramarenko Lisa</name>
+            <email>kramaye_aliesma20@iesmedinaazahara.es</email>
+        </author>
+        <summary> En este artículo cutre encontraras casi ninguna información sobre Londres</summary>
+        <link rel="alternate" href="file:///C:/Users/Win10/Desktop/%D0%A3%D0%9D%D0%98%D0%9A/LMAR/%D0%BF%D0%B5%D1%80%D0%B5%D1%81%D0%B4%D0%B0%D1%87%D0%B0/index.html#Ofimatica"/>
+    </entry>
+
+    <entry>
+        <id>file:///C:/Users/Win10/Desktop/%D0%A3%D0%9D%D0%98%D0%9A/LMAR/%D0%BF%D0%B5%D1%80%D0%B5%D1%81%D0%B4%D0%B0%D1%87%D0%B0/index.html#Recuperacion</id>
+        <title>Información sobre Recuperacion</title>
+        <update>2021-02-12T18:30:00+01:00</update>
+        <author>
+            <name>Kramarenko Lisa</name>
+            <email>kramaye_aliesma20@iesmedinaazahara.es</email>
+        </author>
+        <summary> En este artículo cutre encontraras casi ninguna información sobre recuperacion de los datos</summary>
+        <link rel="alternate" href="file:///C:/Users/Win10/Desktop/%D0%A3%D0%9D%D0%98%D0%9A/LMAR/%D0%BF%D0%B5%D1%80%D0%B5%D1%81%D0%B4%D0%B0%D1%87%D0%B0/index.html#Recuperacion"/>
+    </entry>
+
+    <entry>
+        <id>file:///C:/Users/Win10/Desktop/%D0%A3%D0%9D%D0%98%D0%9A/LMAR/%D0%BF%D0%B5%D1%80%D0%B5%D1%81%D0%B4%D0%B0%D1%87%D0%B0/index.html#Antivirus</id>
+        <title>Información sobre Antivirus</title>
+        <update>2021-02-12T18:30:00+01:00</update>
+        <author>
+            <name>Kramarenko Lisa</name>
+            <email>kramaye_aliesma20@iesmedinaazahara.es</email>
+        </author>
+        <summary> En este artículo cutre encontraras casi ninguna información sobre antiviruses para tu computadora</summary>
+        <link rel="alternate" href="file:///C:/Users/Win10/Desktop/%D0%A3%D0%9D%D0%98%D0%9A/LMAR/%D0%BF%D0%B5%D1%80%D0%B5%D1%81%D0%B4%D0%B0%D1%87%D0%B0/index.html#Antivirus"/>
+    </entry>
+
+    <entry>
+        <id>file:///C:/Users/Win10/Desktop/%D0%A3%D0%9D%D0%98%D0%9A/LMAR/%D0%BF%D0%B5%D1%80%D0%B5%D1%81%D0%B4%D0%B0%D1%87%D0%B0/index.html#Portables</id>
+        <title>Información sobre Portables</title>
+        <update>2021-02-12T18:30:00+01:00</update>
+        <author>
+            <name>Kramarenko Lisa</name>
+            <email>kramaye_aliesma20@iesmedinaazahara.es</email>
+        </author>
+        <summary> En este artículo cutre encontraras casi ninguna información sobre Portables</summary>
+        <link rel="alternate" href="file:///C:/Users/Win10/Desktop/%D0%A3%D0%9D%D0%98%D0%9A/LMAR/%D0%BF%D0%B5%D1%80%D0%B5%D1%81%D0%B4%D0%B0%D1%87%D0%B0/index.html#Portables"/>
+    </entry>
+</feed>
