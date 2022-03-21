@@ -92,4 +92,16 @@ iframe{
     background-color: rgba(5, 5, 5, 0.212);
     height: 650px;
 }
+
+.flecha{
+  margin-left: 50%; 
+  margin-right:50%;
+  width: 130px;
+  height: 160px;
+}
+   
+img{
+    width: 30px;
+    height: 20px;
+}
    
