@@ -30,6 +30,14 @@
             $("article").hide()
             $("#Portables").show();
         });
+         $("#menulocal").click(function(){
+            $("article").hide()
+            $("#Local").show();
+        });
+        $("#menusamba").click(function(){
+            $("article").hide()
+            $("#Samba").show();
+        });
     });
     </script>
     <style>
@@ -53,6 +61,8 @@
                 <li id="menurecuperacion"><a href="#Recuperacion">Recuperacion de Datos</a></li>
                 <li id="menuantivirus"><a href="#Antivirus">Antivirus</a></li>
                 <li id="menuportables"><a href="#Portables">Portables</a></li>
+                <li id="menulocal"><a href="#Local">Local</a></li>
+                <li id="menusamba"><a href="#Samba">Samba</a></li>
                 <div>
                     <div id="sindicacion">
                         <a href="RSS.xml" class="RSS"><img src="./imag/rss.png"></a>
@@ -76,6 +86,12 @@
         </article>
         <article id="Portables">
             <iframe style="width:100%; border:none" src="./portables/Portables.html"></iframe>
+        </article>
+        <article id="Local">
+            <iframe style="width:100%; border:none" src="./clonacion/local/Local.html"></iframe>
+        </article>
+        <article id="Samba">
+            <iframe style="width:100%; border:none" src="./clonacion/samba/Samba.html"></iframe>
         </article>
     </div>
     
